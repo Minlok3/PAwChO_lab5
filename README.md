@@ -1,7 +1,7 @@
 # PAwChO_lab5
 Zrzut ekranu przeglądarki:
 
-![image](https://github.com/Minlok3/PAwChO_lab5/assets/161515539/ff175f86-a65f-4813-a6f5-1906bb7833eb)
+![image](https://github.com/Minlok3/PAwChO_lab5/assets/161515539/0f91a29f-d39d-4e4a-a590-0cd2f52b6cf3)
 
 Polecenie do budowy obrazu i wynik jego działania:
 
